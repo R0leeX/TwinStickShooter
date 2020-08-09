@@ -3,7 +3,7 @@
 Twin Stick Shooter game using Blueprint and C++ with Unreal
 Engine 4.
 
-## Screenshots
+## Gameplay
 
 ![Gameplay](https://github.com/R0leeX/TwinStickShooter/blob/master/gif1.gif)
 
